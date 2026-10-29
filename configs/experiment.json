@@ -1,0 +1,9 @@
+{
+  "groups": ["A", "B", "C"],
+  "tasks": ["T1", "T2", "T3", "T4", "T5", "T6"],
+  "repetitions": 1,
+  "analysis_crs": "EPSG:32650",
+  "area_absolute_tolerance_m2": 0.1,
+  "area_relative_tolerance": 0.000001,
+  "description": "两个构造基础场景的六个变体，小规模验证；离线流程运行不计为模型实验。"
+}

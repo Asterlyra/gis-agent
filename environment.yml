@@ -1,0 +1,14 @@
+name: gis-agent-kbh
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - qgis=3.44
+  - fastapi
+  - uvicorn
+  - httpx
+  - matplotlib
+  - shapely
+  - pyproj
+  - keyring
+  - pytest
